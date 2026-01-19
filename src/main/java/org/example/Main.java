@@ -14,7 +14,7 @@ public class Main {
     }
     @PostConstruct
     public void executar() {
-        secuencia.executar();
+        //secuencia.executar();
         System.exit(200);
     }
     public static void main(String[] args) {
